@@ -4,7 +4,7 @@
 
 I am a New Developer from 🇧🇷 Recife-PE and currently here.
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE5YzU4MDRjNzBjZjM0ZjIyOTkzYjBkMTE3YWRiZDhjNjgxYjllYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="100%">
 
 ## A little about me
 
